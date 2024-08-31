@@ -1,0 +1,44 @@
+h1{
+
+	text-align: right;
+}
+.hh{
+	margin: 20px;
+	padding: 0;
+	height: 50px;
+	width: 1300px;
+	background-color: red;
+	align-content: left;
+}
+
+.ww{
+	margin: 20px;
+	padding: 0;
+	height: 50px;
+	width: 50px;
+
+	background-color: ;
+	background-attachment: fixed;
+	transition: 1s;
+
+
+
+}
+.ww:hover{
+	margin: 20px;
+	padding: 0;
+	height: 70px;
+	width: 70px;
+	background-color: blue;
+	transition: 1s;
+	border-radius: 40px;	
+}
+.ff{
+
+	margin: 0;
+	padding: 0;
+	height: ;
+	width: ;
+    background-attachment: fixed;
+
+}
